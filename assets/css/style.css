@@ -1,0 +1,1151 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+html{
+    width: 1282px;;
+}
+
+.menu {
+    position: absolute;
+    width: 1440px;
+    height: 1053px;
+    left: calc(50% - 1440px/2);
+}
+
+.homeMenuBtn {
+    position: absolute;
+    width: 86px;
+    height: 40px;
+    left: calc(50% - 86px/2 - 605px);
+    top: 62px;
+    text-decoration: none;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 40px;
+
+    color: #1189E4;
+
+}
+
+.aboutBtn {
+    text-decoration: none;
+    position: absolute;
+    width: 130px;
+    height: 40px;
+    left: calc(50% - 130px/2 - 460px);
+    top: 62px;
+    
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 40px;
+    
+    color: #1189E4;
+     
+}
+
+.contactBtn {
+    text-decoration: none;
+    position: absolute;
+    width: 115px;
+    height: 40px;
+    left: calc(50% - 115px/2 - 300.5px);
+    top: 62px;
+
+    /* Header Category
+
+    Text for Header categories
+    */
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 40px;
+
+    color: #1189E4;
+
+}
+
+.logo {
+    position: absolute;
+    width: 266px;
+    height: 173px;
+    left: 587px;
+    top: -4px;
+}
+
+.loginBtnHeader {
+    box-sizing: border-box;
+    border: none;
+    position: absolute;
+    width: 175px;
+    height: 55px;
+    left: calc(50% - 175px/2 + 357.5px);
+    top: 54px;
+    background-color: white;
+    border: 6px solid #1189E4;
+    border-radius: 40px;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 40px;
+
+    color: #1189E4;
+
+}
+
+.registerBtnHeader {
+    border: none;
+    background-color: white;
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 175px;
+    height: 55px;
+    left: calc(50% - 175px/2 + 559.5px);
+    top: 54px;
+
+    border: 6px solid #1189E4;
+    border-radius: 40px;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 40px;
+
+    color: #1189E4;
+
+}
+
+.bgHero {
+    position: absolute;
+    width: 1440px;
+    height: 1053px;
+    left: calc(50% - 1440px/2);
+    top: 160px;
+
+    background: linear-gradient(142.5deg, #1098F7 -4.44%, #1A104E 92.2%);
+
+}
+
+.h1Hero {
+    /* Big Text */
+
+    position: absolute;
+    width: 855px;
+    height: 162px;
+    left: calc(50% - 855px/2 - 0.5px);
+    
+
+    /* H1-LP
+
+    Big Title for Landing Page
+    */
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 81px;
+    text-align: center;
+    text-transform: capitalize;
+
+    color: #FFFFFF;
+
+}
+
+.h2Hero {
+    position: absolute;
+    width: 613px;
+    height: 80px;
+    left: calc(50% - 613px/2 - 0.5px);
+    top: 212px;
+
+    /* H2-LP
+
+    Big Text for Landing Page
+    */
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+
+.ctaBtnHero {
+    position: absolute;
+    width: 300px;
+    height: 75px;
+    left: calc(50% - 300px/2 - 3px);
+    top: 368px;
+
+    /* Gradient */
+    background: linear-gradient(90deg, #F7797D 0%, #C471ED 52.08%, #12C2E9 100%);
+    border-radius: 40px;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 40px;
+    border-style: none;
+    color: #FFFFFF;
+}
+
+.macBookAir {
+    position: absolute;
+    width: 1110px;
+    height: 670px;
+    left: 165px;
+    top: 554px;
+    z-index: 1;
+
+}
+
+.bgContent0 {
+   /* First_grey */
+
+    position: absolute;
+    width: 1440px;
+    height: 900px;
+    left: calc(50% - 1440px/2 + 1px);
+    top: 1213px;
+
+    background: rgba(242, 244, 247, 0.5);
+}
+
+.h1Content0{
+    position: absolute;
+    width: 851px;
+    height: 243px;
+    left: calc(50% - 851px/2 + 3.5px);
+    top: 302px;
+
+    /* H1-LP
+
+    Big Title for Landing Page
+    */
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 81px;
+    text-align: center;
+    text-transform: capitalize;
+
+    /* Secondary Color */
+    color: #182D72;
+
+}
+
+.mapContent0 {
+    position: absolute;
+    left: 11.53%;
+    right: 11.81%;
+    top: 29.72%;
+    bottom: 61.23%;
+}
+
+.contentBoxContent1 {
+    position: absolute;
+    width: 635px;
+    height: 337px;
+    left: 165px;
+    top: 2358px;
+
+}
+
+.h3Content1 {
+    position: absolute;
+    width: 634px;
+    height: 120px;
+    left: calc(50% - 634px/2 - 237px);
+    top: 2358px;
+
+    /* H3-LP
+
+    Medium Title for LP 
+    */
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 40px;
+    text-transform: uppercase;
+
+    color: #182D72;
+}
+
+.pContent1{
+    position: absolute;
+    width: 613px;
+    height: 200px;
+    left: calc(50% - 613px/2 - 248.5px);
+    top: 2495px;
+
+    /* Text-LP
+
+    Text for Landing Page
+    */
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+
+    color: #1189E4;
+}
+
+.imgContent1 {
+    /* Save_time */
+
+    position: absolute;
+    left: 55.42%;
+    right: 14.03%;
+    top: 2348px;
+    bottom: 47.78%;
+}
+
+.registerNowBtnContent1 {
+
+    position: absolute;
+    width: 300px;
+    height: 82.5px;
+    left: calc(50% - 300px/2 - 237px);
+    top: 2755px;
+
+    background: #182D72;
+    border-radius: 40px;
+
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 40px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+
+}
+
+.bgContent2 {
+    /* Second_grey */
+
+    position: absolute;
+    width: 1440px;
+    height: 900px;
+    left: calc(50% - 1440px/2);
+    top: 3025px;
+    background: rgba(242, 244, 247, 0.5);
+}
+
+.illoContent2 {
+    position: absolute;
+    width: 440px;
+    height: 420px;
+    left: 200px;
+    top: 253px;
+}
+
+.formContent2 {
+    /* Frame 4 */
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 540px;
+    height: 600px;
+    left: calc(50% - 540px/2 + 285px);
+    top: 133px;
+
+    background: #F9FAFB;
+    border: 1px solid #1189E4;
+    /* Background */
+    box-shadow: 0px 0px 0px 3px rgba(17, 137, 228, 0.22);
+    border-radius: 5px;
+}
+
+.formH1Content2 {
+    position: absolute;
+    left: calc(50% - 155px/2 + 0.5px);
+    
+
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 120%;
+    /* identical to box height, or 58px */
+    display: flex;
+    align-items: center;
+
+    /* Type/Type - 100 */
+    color: #023047;
+
+}
+
+.fnameContent2 {
+    position: absolute;
+    width: 210px;
+    height: 56px;
+    left: 48px;
+    top: 155px;
+    border: 1px solid #1189E4;
+    /* Background */
+    box-shadow: 0px 0px 0px 3px rgba(17, 137, 228, 0.22);
+    border-radius: 5px;
+}
+
+.fnameContent2::placeholder {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    /* identical to box height, or 24px */
+    display: flex;
+    align-items: center;
+    padding-left: 24px;
+    /* Type/Type - 60 */
+    color: #678391;
+}
+
+.lnameContent2 {
+    position: absolute;
+    width: 210px;
+    height: 56px;
+    left: 282px;
+    top: 154px;
+    border: 1px solid #1189E4;
+    /* Background */
+    box-shadow: 0px 0px 0px 3px rgba(17, 137, 228, 0.22);
+    border-radius: 5px;
+}
+
+.lnameContent2::placeholder {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    /* identical to box height, or 24px */
+    display: flex;
+    align-items: center;
+    padding-left: 24px;
+    /* Type/Type - 60 */
+    color: #678391;
+
+}
+
+.emailContent2 {
+    position: absolute;
+    width: 405px;
+    height: 56px;
+    left: 47px;
+    top: 227px;
+    border: 1px solid #1189E4;
+    /* Background */
+    box-shadow: 0px 0px 0px 3px rgba(17, 137, 228, 0.22);
+    border-radius: 5px;
+}
+
+.iconEmailContent2 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 63px;
+    top: 243px;
+}
+
+.emailContent2::placeholder {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    /* identical to box height, or 24px */
+    display: flex;
+    align-items: center;
+    /* Type/Type - 60 */
+    color: #678391;
+}
+
+input#spaceEmailContent2 {
+    padding-left: 8%;
+}
+
+.passwordContent2 {
+    position: absolute;
+    width: 405px;
+    height: 56px;
+    left: 47px;
+    top: 299px;
+    border: 1px solid #1189E4;
+    /* Background */
+    box-shadow: 0px 0px 0px 3px rgba(17, 137, 228, 0.22);
+    border-radius: 5px;
+}
+
+.passwordContent2::placeholder {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    /* identical to box height, or 24px */
+    display: flex;
+    align-items: center;
+    /* Type/Type - 60 */
+    color: #678391;
+}
+
+input#spacePasswordContent2 {
+    padding-left: 8%;
+}
+
+.iconPasswordContent2 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 63px;
+    top: 315px;
+}
+
+.privacyTextContent2 {
+    position: absolute;
+    width: 413.7px;
+    height: 54px;
+    left: 78.3px;
+    top: 370px;
+
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    /* or 24px */
+
+    /* Type/Type - 100 */
+    color: #023047;
+}
+
+.privacyCheckContent2 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 15.65px;
+    height: 16px;
+    left: 47px;
+    top: 388px;
+
+    background: #FAFAFA;
+    /* Type/Type - 20 */
+    border: 1px solid #CCD6DA;
+    border-radius: 2px;
+}
+
+.privacyTextLinkContent2 {
+    color: #1189E4;
+}
+
+.createAccBtnContent2 {
+    /* Btn */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 24px;
+    gap: 10px;
+
+    position: absolute;
+    width: 445px;
+    height: 48px;
+    left: 47px;
+    top: 483px;
+
+    background: #1189E4;
+    border-radius: 5px;
+    border-style: none;
+    /* Secondary-Buttons-Text
+
+    Text for Buttons 
+    */
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 150%;
+    /* identical to box height, or 32px */
+    color: #FFFFFF;
+}
+
+.h3Content3 {
+    position: absolute;
+    width: 699px;
+    height: 80px;
+    left: calc(50% - 699px/2 + 0.5px);
+    top: 4000px;
+
+    /* H3-LP
+
+    Medium Title for LP 
+    */
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 40px;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #182D72;
+
+}
+
+.cardOuterContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 32px;
+
+    position: absolute;
+    width: 1110px;
+    height: 416px;
+    left: calc(50% - 1300px/2);
+    top: 4152px;
+
+}
+
+.card1FrameContent3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 24px;
+    gap: 16px;
+
+    width: 348px;
+    height: 414px;
+
+    /* White-background */
+    background: #FFFFFF;
+    box-shadow: 0px 5px 16px rgba(16, 152, 247, 0.3);
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.card2FrameContent3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 24px;
+    gap: 16px;
+
+    width: 348px;
+    height: 414px;
+
+    /* White-background */
+    background: #FFFFFF;
+    box-shadow: 0px 5px 16px rgba(16, 152, 247, 0.3);
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.card3FrameContent3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 24px;
+    gap: 16px;
+
+    width: 348px;
+    height: 414px;
+
+    /* White-background */
+    background: #FFFFFF;
+    box-shadow: 0px 5px 16px rgba(16, 152, 247, 0.3);
+
+    /* Inside auto layout */
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+}
+
+.card1ImgContent3 {
+    position: absolute;
+    width: 109.28px;
+    height: 100px;
+    left: 19px;
+    top: 25px;
+}
+
+.card1NameContent3 {
+    width: 79px;
+    position: absolute;
+    height: 22px;
+    top: 26.5px;
+    left: 156px;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    /* identical to box height, or 138% */
+    text-align: center;
+
+    /* Black-fonts, headings */
+    color: #2D2E2E;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.card1StarsContent3 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 12px;
+
+    width: 168px;
+    height: 24px;
+    left: 156px;
+    top: 64.5px;
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    position: absolute;
+    flex-grow: 0;
+}
+
+.card1TextContainerContent3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 16px 0px;
+    gap: 16px;
+
+    width: 300px;
+    height: 250px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.card1TextContent3 {
+    position: absolute;
+    top: 156px;
+    left: 24px;
+    width: 300px;
+    height: 198px;
+    /* User Review Text
+    Small texxt for users reviews
+    */
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    /* or 138% */
+
+    /* Black-fonts, headings */
+    color: #2D2E2E;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 1;
+}
+
+/*Card 2 */
+.card2ImgContent3 {
+    position: absolute;
+    width: 109.28px;
+    height: 100px;
+    top: 25px;
+}
+
+.card2NameContent3 {
+    width: 103px;
+    height: 22px;
+    position: absolute;
+    left: 591px;
+    top: 26.5px;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    /* identical to box height, or 138% */
+    text-align: center;
+
+    /* Black-fonts, headings */
+    color: #2D2E2E;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.card2StarsContent3 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 12px;
+    left: 591px;
+    width: 168px;
+    height: 24px;
+    top: 64.5px;
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    position: absolute;
+    flex-grow: 0;
+}
+
+.card2TextContainerContent3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 16px 0px;
+    gap: 16px;
+
+    width: 300px;
+    height: 250px;
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.card2TextContent3 {
+    position: absolute;
+    top: 156px;
+    width: 300px;
+    height: 198px;
+    /* User Review Text
+    Small texxt for users reviews
+    */
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    /* or 138% */
+
+    /* Black-fonts, headings */
+    color: #2D2E2E;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 1;
+}
+
+/*Card 3*/
+
+.card3ImgContent3 {
+    position: absolute;
+    width: 109.28px;
+    height: 100px;
+    top: 25px;
+}
+
+.card3NameContent3 {
+    width: 103px;
+    height: 22px;
+    position: absolute;
+    left: 1015px;
+    top: 26.5px;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    /* identical to box height, or 138% */
+    text-align: center;
+
+    /* Black-fonts, headings */
+    color: #2D2E2E;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.card3StarsContent3 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 12px;
+    left: 1025px;
+    width: 168px;
+    height: 24px;
+    top: 64.5px;
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    position: absolute;
+    flex-grow: 0;
+}
+
+.card3TextContainerContent3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 16px 0px;
+    gap: 16px;
+
+    width: 300px;
+    height: 250px;
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.card3TextContent3 {
+    position: absolute;
+    top: 156px;
+    width: 300px;
+    height: 198px;
+    /* User Review Text
+    Small texxt for users reviews
+    */
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    /* or 138% */
+
+    /* Black-fonts, headings */
+    color: #2D2E2E;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 1;
+}
+
+.footerBg {
+    position: absolute;
+    width: 1440px;
+    height: 500px;
+    left: calc(50% - 1440px/2);
+    top: 4816px;
+
+    background: linear-gradient(142.5deg, #1098F7 -4.44%, #1A104E 92.2%);
+}
+
+.footerLogo {
+    position: absolute;
+    width: 266px;
+    height: 173px;
+    left: 587px;
+    top: 13px;
+}
+
+
+.footerMenuHome {
+    position: absolute;
+    width: 54px;
+    height: 25px;
+    left: calc(50% - 54px/2 - 258px);
+    top: 181px;
+    text-decoration: none;
+    /* H1-Footer
+
+    Title for Footer Category
+    */
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #FFFFFF;
+}
+
+.footerMenuService {
+    position: absolute;
+    width: 65px;
+    height: 25px;
+    left: calc(50% - 65px/2 - 135.5px);
+    top: 181px;
+    text-decoration: none;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #FFFFFF;
+}
+
+.footerMenuResource {
+    position: absolute;
+    width: 81px;
+    height: 25px;
+    left: calc(50% - 81px/2 + 0.5px);
+    top: 181px;
+    text-decoration: none;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #FFFFFF;
+
+
+}
+
+.footerMenuContact {
+    position: absolute;
+    width: 72px;
+    height: 25px;
+    left: calc(50% - 72px/2 + 140px);
+    top: 181px;
+    text-decoration: none;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #FFFFFF;
+    
+}
+
+.footerMenuAbout {
+    position: absolute;
+    width: 55px;
+    height: 25px;
+    left: calc(50% - 55px/2 + 266.5px);
+    top: 181px;
+    text-decoration: none;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #FFFFFF;
+
+}
+
+.footerText {
+    position: absolute;
+    width: 582px;
+    height: 72px;
+    left: calc(50% - 582px/2);
+    top: 240px;
+
+    /* Footer-Text
+
+    for any other text in the footer
+    */
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* or 150% */
+    text-align: center;
+
+    color: #DDDDDD;
+
+}
+
+.footerRights {
+    position: absolute;
+    width: 317px;
+    height: 26px;
+    left: calc(50% - 317px/2 + 0.5px);
+    top: 379px;
+
+    /* Footer-Special
+
+    Text for special Iems in the footer
+    */
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    /* identical to box height, or 130% */
+    text-align: center;
+
+    /* White */
+    color: #FFFFFF;
+
+    mix-blend-mode: normal;
+}
+
+.footerFacebook {
+    position: absolute;
+    width: 9.07px;
+    height: 20.42px;
+    left: calc(50% - 9.07px/2 - 77.1px);
+    top: 437.29px;
+}
+.footerTwitter {
+    position: absolute;
+    width: 23.32px;
+    height: 20.42px;
+    left: calc(50% - 23.32px/2 - 25.92px);
+    top: 437.29px;
+}
+
+.footerLinkedIn {
+    position: absolute;
+    width: 20.73px;
+    height: 21.88px;
+    left: calc(50% - 20.73px/2 + 25.92px);
+    top: 437.29px;
+}
+
+.footerInstagram {
+    position: absolute;
+    width: 20.73px;
+    height: 26.25px;
+    left: calc(50% - 20.73px/2 + 76.45px);
+    top: 437.29px;
+}
