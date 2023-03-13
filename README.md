@@ -1,6 +1,6 @@
 # OnTime ⏱️
 
-<img src="./img/overview.mov">
+<img src="./assets/img/overview.mov">
 
 OnTime is a web development project created as part of my university coursework. This project is hosted on GitHub and is built using pure HTML and CSS, with no additional libraries or frameworks.
 
