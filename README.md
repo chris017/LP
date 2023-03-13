@@ -1,4 +1,4 @@
-# OnTime ⏰
+# OnTime ⏱️
 
 <img src="./img/overview.mov">
 
