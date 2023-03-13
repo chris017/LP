@@ -1,6 +1,6 @@
 # OnTime ⏱️
 
-![Video Title](https://github.com/chris017/ontime-landingpage/blob/master/assets/img/overview.mp4)
+https://user-images.githubusercontent.com/28670581/224839390-57a0f198-e872-454a-9ff6-08e495a562ea.mp4
 
 OnTime is a web development project created as part of my university coursework. This project is hosted on GitHub and is built using pure HTML and CSS, with no additional libraries or frameworks.
 
